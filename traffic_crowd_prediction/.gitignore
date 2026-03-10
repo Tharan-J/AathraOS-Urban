@@ -1,0 +1,13 @@
+# Ignore uploaded video feeds (large binary files)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLO local config cache
+Ultralytics/
+
+# Local development
+*.log
